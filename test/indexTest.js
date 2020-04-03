@@ -1,3 +1,4 @@
+let companyName = 'Scuber';
 const fs = require('file-system')
 const jsdom = require('mocha-jsdom')
 const path = require('path')
